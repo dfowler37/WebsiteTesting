@@ -504,10 +504,10 @@
 .icon-home2:before {
     content: "\eabd";
 }
-.icon-add-to-list:before {
+.icon-instagram:before {
     content: "\e901";
 }
-.icon-classic-computer:before {
+.icon-x:before {
     content: "\e902";
 }
 .icon-controller-fast-backward:before {
@@ -2622,7 +2622,7 @@
 .icon-arrow-left22:before {
     content: "\ebfe";
 }
-.icon-circle-up:before {
+.icon-facebook:before {
     content: "\e900";
 }
 .icon-circle-right:before {
