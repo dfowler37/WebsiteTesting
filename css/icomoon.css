@@ -3132,4 +3132,7 @@
 .icon-IcoMoon:before {
     content: "\eca7";
 }
+.icon-x:before {
+    content: "\F8DB";
+}
 
