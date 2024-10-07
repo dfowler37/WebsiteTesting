@@ -303,9 +303,6 @@
 .icon-sad:before {
     content: "\e05c";
 }
-.icon-facebook:before {
-    content: "\e05d";
-}
 .icon-twitter:before {
     content: "\e05e";
 }
@@ -503,12 +500,6 @@
 }
 .icon-home2:before {
     content: "\eabd";
-}
-.icon-add-to-list:before {
-    content: "\e901";
-}
-.icon-classic-computer:before {
-    content: "\e902";
 }
 .icon-controller-fast-backward:before {
     content: "\e903";
@@ -1578,12 +1569,6 @@
 .icon-dribbble2:before {
     content: "\ea66";
 }
-.icon-facebook-with-circle:before {
-    content: "\ea67";
-}
-.icon-facebook2:before {
-    content: "\ea68";
-}
 .icon-flickr-with-circle:before {
     content: "\ea69";
 }
@@ -1602,11 +1587,8 @@
 .icon-google:before {
     content: "\ea6e";
 }
-.icon-instagram-with-circle:before {
-    content: "\ea6f";
-}
 .icon-instagram:before {
-    content: "\ea70";
+    content: "\e901";
 }
 .icon-lastfm-with-circle:before {
     content: "\ea71";
@@ -2622,7 +2604,7 @@
 .icon-arrow-left22:before {
     content: "\ebfe";
 }
-.icon-circle-up:before {
+.icon-facebook:before {
     content: "\e900";
 }
 .icon-circle-right:before {
@@ -2858,15 +2840,6 @@
 }
 .icon-google-drive2:before {
     content: "\ec4c";
-}
-.icon-facebook3:before {
-    content: "\ec4d";
-}
-.icon-facebook22:before {
-    content: "\ec4e";
-}
-.icon-instagram2:before {
-    content: "\ec4f";
 }
 .icon-whatsapp:before {
     content: "\ec50";
@@ -3133,6 +3106,6 @@
     content: "\eca7";
 }
 .icon-x:before {
-    content: "\F8DB";
+    content: "\e902";
 }
 
