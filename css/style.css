@@ -1785,7 +1785,8 @@ textarea {
 }
 
 .site-logo {
-  float: right;
+  float: none;
+  width: 100%;
 }
 
 /*# sourceMappingURL=style.css.map */
