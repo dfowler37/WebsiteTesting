@@ -104,7 +104,7 @@ h1, h2, h3, h4, h5, h6, figure {
   transition: 0.3s;
 }
 .fh5co-nav.scrolled {
-  background: #000 url(https://dfowler37.github.io/WebsiteTesting/Images/FuntimeBowlLogo.png) repeat;
+  background: #000 repeat;
 }
 @media screen and (max-width: 480px) {
   .fh5co-nav {
@@ -113,7 +113,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   .fh5co-nav.scrolled {
-    background: #000 url(https://dfowler37.github.io/WebsiteTesting/Images/FuntimeBowlLogo.png) repeat;
+    background: #000 repeat;
   }
 }
 @media screen and (max-width: 480px) {
