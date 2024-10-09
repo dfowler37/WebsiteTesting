@@ -53,7 +53,7 @@
 		<!-- <div class="top-menu"> -->
 			<div class="container">
 				<div class="row">
-					<div class="col-xs-12 text-center logo-wrap">
+					<div id="header-logo" class="col-xs-12 text-center logo-wrap">
 						<div id="fh5co-logo" class="site-logo"><a href="index.html">Funtime Bowl</a></div>
                  					<img src="https://dfowler37.github.io/WebsiteTesting/Images/FuntimeBowlLogo.png" alt="Logo" width="150" height="150" class="d-inline-block align-text-top">
 					</div>
@@ -191,6 +191,13 @@
 	<script src="js/jquery.flexslider-min.js"></script>
 	<!-- Main -->
 	<script src="js/main.js"></script>
+	<!-- Auto-resize header image -->
+	<script> window.onresize = function() {
+    		var containerWidth = document.getElementById('header-logo').parentElement.clientWidth;
+    		// Set the width of the image to match the container
+    		document.getElementById('header-logo').style.width = containerWidth + 'px';
+  		}
+	</script>
 
 	</body>
 </html>
