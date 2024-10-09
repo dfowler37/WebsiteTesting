@@ -99,16 +99,15 @@ h1, h2, h3, h4, h5, h6, figure {
   z-index: 1001;
   top: 0;
   padding: 14px 0;
+  -webkit-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
 
 }
 @media screen and (max-width: 480px) {
   .fh5co-nav {
     position: absolute;
   }
-}
-.fh5co-nav.scrolled {
-  background: #000 url(../images/broken_noise.png) repeat;
-  top: -82px;
 }
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   .fh5co-nav.scrolled {
